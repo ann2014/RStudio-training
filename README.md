@@ -1,1 +1,2 @@
 # RStudio-training
+Git session
